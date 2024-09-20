@@ -4,6 +4,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 First, run the development server:
 
+First run python app.py in backend. Then server node.js in the backend in another terminal instance. Then in the project main folder.
 ```bash
 npm run dev
 # or
